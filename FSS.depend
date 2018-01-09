@@ -1,0 +1,516 @@
+# depslib dependency file v1.0
+1434734176 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Disc/Disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434314398 
+
+1434389239 /home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Disc/Disc.h
+	"Segment.h"
+
+1434389240 "
+
+1434663296 /home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Disc/Segment.h
+	"../Lists/BlockList.h"
+
+1434663296 BlockList.h"
+
+1434664934 /home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Lists/BlockList.h
+
+1434734164 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Disc/Segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1434664929 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Lists/BlockList.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388429 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Lists/CharList.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1434664309 /home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Lists/CharList.h
+
+1434733330 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Main.cpp
+	"Disc/Disc.h"
+	<iostream>
+
+1434731892 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Map/Map.cpp
+	"Map.h"
+	<stdlib.h>
+	<iostream>
+
+1434732810 /home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Map/Map.h
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+
+1435625696 Maybe.h"
+
+1434313889 /home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Maybe/Maybe.h
+
+1434314398 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Maybe/Maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1434663479 source:/home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Tree/Tree.cpp
+	"Tree.h"
+	<stdlib.h>
+	<iostream>
+
+1434314965 /home/aeviso/Documents/unq/materias/estructuras/svn/tp_finales/2015s1/FSS/src/Tree/Tree.h
+	"../Disc/Segment.h"
+
+1434314965 egment.h"
+
+1434734176 source:c:\documents and settings\b032679\desktop\project_original\src\disc\disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434389240 c:\documents and settings\b032679\desktop\project_original\src\disc\disc.h
+	"Segment.h"
+
+1434663296 c:\documents and settings\b032679\desktop\project_original\src\disc\segment.h
+	"../Lists/BlockList.h"
+
+1434664934 c:\documents and settings\b032679\desktop\project_original\src\lists\blocklist.h
+
+1434734164 source:c:\documents and settings\b032679\desktop\project_original\src\disc\segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1435530742 source:c:\documents and settings\b032679\desktop\project_original\src\fss\fss.cpp
+	"FSS.h"
+	"../Map/Map.h"
+	"../Disc/Disc.h"
+
+1435530742 isc.h"
+
+1435450020 c:\documents and settings\b032679\desktop\project_original\src\fss\fss.h
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+	"../Maybe/Maybe.h"
+
+1434664310 c:\documents and settings\b032679\desktop\project_original\src\lists\charlist.h
+
+1434664930 source:c:\documents and settings\b032679\desktop\project_original\src\lists\blocklist.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388430 source:c:\documents and settings\b032679\desktop\project_original\src\lists\charlist.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1435547234 source:c:\documents and settings\b032679\desktop\project_original\src\main.cpp
+	"FSS/FSS.h"
+	"Map/Map.h"
+	<iostream>
+	<stdio.h>
+
+1434314398 source:c:\documents and settings\b032679\desktop\project_original\src\maybe\maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1435449900 c:\documents and settings\b032679\desktop\project_original\src\maybe\maybe.h
+
+1434734176 source:/home/maricruz/Escritorio/project_original/src/Disc/Disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434389240 /home/maricruz/Escritorio/project_original/src/Disc/Disc.h
+	"Segment.h"
+	"Segment.h"
+
+1434663296 /home/maricruz/Escritorio/project_original/src/Disc/Segment.h
+	"../Lists/BlockList.h"
+	"../Lists/BlockList.h"
+
+1434664934 /home/maricruz/Escritorio/project_original/src/Lists/BlockList.h
+
+1434734164 source:/home/maricruz/Escritorio/project_original/src/Disc/Segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1435530742 source:/home/maricruz/Escritorio/project_original/src/FSS/FSS.cpp
+	"FSS.h"
+	"FSS.h"
+	"../Map/Map.h"
+	"../Disc/Disc.h"
+
+1435450020 /home/maricruz/Escritorio/project_original/src/FSS/FSS.h
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+	"../Maybe/Maybe.h"
+
+1434664310 /home/maricruz/Escritorio/project_original/src/Lists/CharList.h
+
+1434664930 source:/home/maricruz/Escritorio/project_original/src/Lists/BlockList.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388430 source:/home/maricruz/Escritorio/project_original/src/Lists/CharList.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1435543911 source:/home/maricruz/Escritorio/project_original/src/Main.cpp
+	"FSS/FSS.h"
+	"FSS/FSS.h"
+	"Map/Map.h"
+	<iostream>
+	<stdio.h>
+
+1434314398 source:/home/maricruz/Escritorio/project_original/src/Maybe/Maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1435449899 /home/maricruz/Escritorio/project_original/src/Maybe/Maybe.h
+
+1435546061 source:/home/maricruz/Escritorio/project_original/src/Map/Map.cpp
+	"Map.h"
+	"../Maybe/Maybe.h"
+	"Map.h"
+	"../Maybe/Maybe.h"
+
+1435447932 /home/maricruz/Escritorio/project_original/src/Map/Map.h
+	<stdio.h>
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+	<stdio.h>
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+
+1434734164 source:c:\users\publico\desktop\project_original\src\disc\segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1434663296 c:\users\publico\desktop\project_original\src\disc\segment.h
+	"../Lists/BlockList.h"
+
+1434664934 c:\users\publico\desktop\project_original\src\lists\blocklist.h
+
+1434840494 source:c:\users\publico\desktop\project_original\src\fss\fss.cpp
+	"FSS.h"
+
+1435260616 c:\users\publico\desktop\project_original\src\fss\fss.h
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+
+1434664310 c:\users\publico\desktop\project_original\src\lists\charlist.h
+
+1434664930 source:c:\users\publico\desktop\project_original\src\lists\blocklist.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388430 source:c:\users\publico\desktop\project_original\src\lists\charlist.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1434840456 source:c:\users\publico\desktop\project_original\src\main.cpp
+	"FSS/FSS.h"
+
+1434314398 source:c:\users\publico\desktop\project_original\src\maybe\maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1435262648 c:\users\publico\desktop\project_original\src\maybe\maybe.h
+
+1434734176 source:c:\users\publico\desktop\project_original\src\disc\disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434389240 c:\users\publico\desktop\project_original\src\disc\disc.h
+	"Segment.h"
+
+1435447932 c:\documents and settings\b032679\desktop\project_original\src\map\map.h
+	<stdio.h>
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+
+1435594855 source:c:\documents and settings\b032679\desktop\project_original\src\map\map.cpp
+	"Map.h"
+	"../Maybe/Maybe.h"
+
+1434734176 source:/home/maricruz/Escritorio/project_original (2)/src/Disc/Disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434389240 /home/maricruz/Escritorio/project_original (2)/src/Disc/Disc.h
+	"Segment.h"
+
+1434663296 /home/maricruz/Escritorio/project_original (2)/src/Disc/Segment.h
+	"../Lists/BlockList.h"
+
+1434664934 /home/maricruz/Escritorio/project_original (2)/src/Lists/BlockList.h
+
+1434734164 source:/home/maricruz/Escritorio/project_original (2)/src/Disc/Segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1435530742 source:/home/maricruz/Escritorio/project_original (2)/src/FSS/FSS.cpp
+	"FSS.h"
+	"../Map/Map.h"
+	"../Disc/Disc.h"
+
+1435450020 /home/maricruz/Escritorio/project_original (2)/src/FSS/FSS.h
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+	"../Maybe/Maybe.h"
+
+1434664310 /home/maricruz/Escritorio/project_original (2)/src/Lists/CharList.h
+
+1435449900 /home/maricruz/Escritorio/project_original (2)/src/Maybe/Maybe.h
+
+1435447932 /home/maricruz/Escritorio/project_original (2)/src/Map/Map.h
+	<stdio.h>
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+
+1434664930 source:/home/maricruz/Escritorio/project_original (2)/src/Lists/BlockList.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388430 source:/home/maricruz/Escritorio/project_original (2)/src/Lists/CharList.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1435624843 source:/home/maricruz/Escritorio/project_original (2)/src/Main.cpp
+	"FSS/FSS.h"
+	"Map/Map.h"
+	<iostream>
+	<stdio.h>
+
+1435625695 source:/home/maricruz/Escritorio/project_original (2)/src/Map/Map.cpp
+	"Map.h"
+	"../Maybe/Maybe.h"
+
+1434314398 source:/home/maricruz/Escritorio/project_original (2)/src/Maybe/Maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1434734164 source:c:\users\publico\desktop\project_original (2)\src\disc\segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1434663296 c:\users\publico\desktop\project_original (2)\src\disc\segment.h
+	"../Lists/BlockList.h"
+
+1434664934 c:\users\publico\desktop\project_original (2)\src\lists\blocklist.h
+
+1435530742 source:c:\users\publico\desktop\project_original (2)\src\fss\fss.cpp
+	"FSS.h"
+	"../Map/Map.h"
+	"../Disc/Disc.h"
+
+1435716497 c:\users\publico\desktop\project_original (2)\src\fss\fss.h
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+	"../Maybe/Maybe.h"
+
+1434664310 c:\users\publico\desktop\project_original (2)\src\lists\charlist.h
+
+1435449900 c:\users\publico\desktop\project_original (2)\src\maybe\maybe.h
+
+1435447932 c:\users\publico\desktop\project_original (2)\src\map\map.h
+	<stdio.h>
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+
+1434389240 c:\users\publico\desktop\project_original (2)\src\disc\disc.h
+	"Segment.h"
+
+1434664930 source:c:\users\publico\desktop\project_original (2)\src\lists\blocklist.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388430 source:c:\users\publico\desktop\project_original (2)\src\lists\charlist.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1435631914 source:c:\users\publico\desktop\project_original (2)\src\main.cpp
+	"FSS/FSS.h"
+	"Map/Map.h"
+	<iostream>
+	<stdio.h>
+
+1435625696 source:c:\users\publico\desktop\project_original (2)\src\map\map.cpp
+	"Map.h"
+	"../Maybe/Maybe.h"
+
+1434314398 source:c:\users\publico\desktop\project_original (2)\src\maybe\maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1434734176 source:c:\users\publico\desktop\project_original (2)\src\disc\disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434734176 source:/home/maricruz/Escritorio/TPF_Gil/src/Disc/Disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434389240 /home/maricruz/Escritorio/TPF_Gil/src/Disc/Disc.h
+	"Segment.h"
+
+1434663296 /home/maricruz/Escritorio/TPF_Gil/src/Disc/Segment.h
+	"../Lists/BlockList.h"
+
+1434664934 /home/maricruz/Escritorio/TPF_Gil/src/Lists/BlockList.h
+
+1434734164 source:/home/maricruz/Escritorio/TPF_Gil/src/Disc/Segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1435799169 source:/home/maricruz/Escritorio/TPF_Gil/src/FSS/FSS.cpp
+	"FSS.h"
+	"../Map/Map.h"
+	"../Disc/Disc.h"
+
+1435716498 /home/maricruz/Escritorio/TPF_Gil/src/FSS/FSS.h
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+	"../Maybe/Maybe.h"
+
+1434664310 /home/maricruz/Escritorio/TPF_Gil/src/Lists/CharList.h
+
+1435449900 /home/maricruz/Escritorio/TPF_Gil/src/Maybe/Maybe.h
+
+1435447932 /home/maricruz/Escritorio/TPF_Gil/src/Map/Map.h
+	<stdio.h>
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+
+1434664930 source:/home/maricruz/Escritorio/TPF_Gil/src/Lists/BlockList.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388430 source:/home/maricruz/Escritorio/TPF_Gil/src/Lists/CharList.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1435799401 source:/home/maricruz/Escritorio/TPF_Gil/src/Main.cpp
+	"FSS/FSS.h"
+	"Map/Map.h"
+	<iostream>
+	<stdio.h>
+
+1435799297 source:/home/maricruz/Escritorio/TPF_Gil/src/Map/Map.cpp
+	"Map.h"
+	"../Maybe/Maybe.h"
+
+1434314398 source:/home/maricruz/Escritorio/TPF_Gil/src/Maybe/Maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1434734176 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Disc/Disc.cpp
+	"Disc.h"
+	<stdlib.h>
+	<vector>
+
+1434389240 /home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Disc/Disc.h
+	"Segment.h"
+
+1434663296 /home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Disc/Segment.h
+	"../Lists/BlockList.h"
+
+1434664934 /home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Lists/BlockList.h
+
+1434734164 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Disc/Segment.cpp
+	"Segment.h"
+	<stdlib.h>
+	<iostream>
+
+1436316379 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/FSS/FSS.cpp
+	"FSS.h"
+	"../Map/Map.h"
+	"../Disc/Disc.h"
+
+1435716498 /home/maricruz/Escritorio/TPF_Maricruz_Gil/src/FSS/FSS.h
+	"../Lists/CharList.h"
+	"../Lists/BlockList.h"
+	"../Maybe/Maybe.h"
+
+1434664310 /home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Lists/CharList.h
+
+1435449900 /home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Maybe/Maybe.h
+
+1435447932 /home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Map/Map.h
+	<stdio.h>
+	"../Lists/CharList.h"
+	"../Maybe/Maybe.h"
+
+1434664930 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Lists/BlockList.cpp
+	"BlockList.h"
+	<stdlib.h>
+	<iostream>
+
+1434388430 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Lists/CharList.cpp
+	"CharList.h"
+	<stdlib.h>
+	<iostream>
+
+1435799401 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Main.cpp
+	"FSS/FSS.h"
+	"Map/Map.h"
+	<iostream>
+	<stdio.h>
+
+1434314398 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Maybe/Maybe.cpp
+	"Maybe.h"
+	<stdlib.h>
+	<iostream>
+
+1436316447 source:/home/maricruz/Escritorio/TPF_Maricruz_Gil/src/Map/Map.cpp
+	"Map.h"
+	"../Maybe/Maybe.h"
+
